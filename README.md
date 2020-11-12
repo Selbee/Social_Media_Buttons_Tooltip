@@ -10,4 +10,4 @@ The Social Media Buttons allow your website visitors and content viewers to easi
 
 
 # Visuals
-![Alt Text](/Users/selena/Desktop/GitHub/2. Social Media Buttons/media/ezgif-2-a4ce7a310718.gif)
+![Alt Text](/Users/selena/Desktop/GitHub/2.Social Media Buttons/media/ezgif-2-a4ce7a310718.gif)
