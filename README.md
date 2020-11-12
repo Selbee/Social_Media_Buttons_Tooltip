@@ -10,5 +10,4 @@ The Social Media Buttons allow your website visitors and content viewers to easi
 
 
 # Visuals
-![Alt Text](https://ezgif.com/video-to-gif/ezgif-2-b98cd9a5c465.mp4
-https://s2.ezgif.com/save/ezgif-2-a4ce7a310718.gif)
+![Alt Text](/Users/selena/Desktop/GitHub/2. Social Media Buttons/media/ezgif-2-a4ce7a310718.gif)
